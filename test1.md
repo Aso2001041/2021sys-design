@@ -1,7 +1,7 @@
 ```flow
-@startuml
+st=>: |flow-terminal
+e=>end: |flow-terminal
 [体力=10]
-Bob --> Alice: Response
-@enduml
+
 ```
 
