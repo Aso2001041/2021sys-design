@@ -51,6 +51,6 @@ reg_date
 syousai }-|| syouhin
 customer |o-o{ kounyuu
 kounyuu ||-|{ syousai
-syouhinn }-|| kategori
+syouhin }-|| kategori
 @enduml
 ```
