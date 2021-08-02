@@ -48,6 +48,6 @@ entity "カテゴリマスタ" as kategori <m_items>
 name
 reg_date
 }
-customer |-oo{ kounyuu
+customer |-o{ kounyuu
 @enduml
 ```
