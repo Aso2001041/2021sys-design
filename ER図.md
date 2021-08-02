@@ -30,6 +30,7 @@ price
 num
 }
 entity "商品マスタ" as syouhin <m_items>
+{
 +item_code
 --
 item_name
@@ -41,6 +42,7 @@ del_flag
 reg_date
 }
 entity "カテゴリマスタ" as kategori <m_items>
+{
 +category_id [PK]
 --
 name
