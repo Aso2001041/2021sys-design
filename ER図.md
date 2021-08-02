@@ -41,6 +41,12 @@ detail
 del_flag
 reg_date
 }
-
+entity "カテゴリマスタ" as kategori <m_items>
+{
++category_id [PK]
+--
+name
+reg_date
+}
 @enduml
 ```
