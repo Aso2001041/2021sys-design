@@ -29,24 +29,6 @@ item_code [FK]
 price
 num
 }
-entity "商品マスタ" as syouhin <m_items>
-{
-+item_code
---
-item_name
-price
-category_id [FK]
-image
-detail
-del_flag
-reg_date
-}
-entity "カテゴリマスタ" as kategori <m_items>
-{
-+category_id [PK]
---
-name
-reg_date
-}
+
 @enduml
 ```
